@@ -1,22 +1,22 @@
 {
-    "token": "",
+    "token": "MTE4MzI2Mzk2MTcwNjE0Nzk2MQ.Gq_hqL.5PvPSnPJ49HCY_3xwSUViaF64SitG0y4JjHa3w",
     "proxy": false,
     "nuke": {
         "channels_name": [
-            "AIZER X VIRUS ",
+            "Gourav ",
             "The Fucking Kimd Here",
             "HACKING R1DERS",
-            "AIZER X VIRUS BAP HAI"
+            "Gourav BAP HAI"
         ],
         "roles_name": [
-            "wizzed by Aizer x vairus ",
+            "wizzed by GourV ",
             "Nukers Territory",
-            "Aizer x virus  Papa Here"
+            "Gourav  Papa Here"
         ],
         "messages_content": [
-            "@everyone @here **Aizer x Virus  Papa Aye The** https://discord.gg/ntontop",
-            "@everyone @here **Aizer x Virus  Papa Aye The** https://discord.gg/ntontop",
-            "@everyone @here **Aizer x Virus  Papa Aye The** https://discord.gg/ntontop"
+            "@everyone @here **Gourav Papa Aye The** https://discord.gg/ntontop",
+            "@everyone @here **Gourav Papa Aye The** https://discord.gg/ntontop",
+            "@everyone @here **Gourav Papa Aye The** https://discord.gg/ntontop"
         ]
     }
 }
