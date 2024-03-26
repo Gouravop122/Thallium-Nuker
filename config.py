@@ -3,20 +3,20 @@
     "proxy": false,
     "nuke": {
         "channels_name": [
-            "Gourav ",
+            "Dracula x Zephyr",
             "The Fucking Kimd Here",
-            "HACKING R1DERS",
-            "Gourav BAP HAI"
+            "Trashers",
+            "Dracula x Zephyr BAP HAI"
         ],
         "roles_name": [
-            "wizzed by GourV ",
-            "Nukers Territory",
-            "Gourav  Papa Here"
+            "wizzed by Dracula x Zephyr ",
+            "Trashers",
+            "Dracula x Zephyr Papa Here"
         ],
         "messages_content": [
-            "@everyone @here **Gourav Papa Aye The** https://discord.gg/ntontop",
-            "@everyone @here **Gourav Papa Aye The** https://discord.gg/ntontop",
-            "@everyone @here **Gourav Papa Aye The** https://discord.gg/ntontop"
+            "@everyone @here **Dracula x Zephyr Papa Aye The** https://discord.com/invite/8NTkcUPdan",
+            "@everyone @here **Dracula x Zephyr Papa Aye The** https://discord.com/invite/8NTkcUPdan",
+            "@everyone @here **Dracula x Zephyr Papa Aye The** https://discord.com/invite/8NTkcUPdan"
         ]
     }
 }
